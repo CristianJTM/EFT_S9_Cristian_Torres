@@ -1,14 +1,15 @@
-Carga;AB1234;Volvo;FH16;2020;Disponible;25
+Carga;AB1234;Volvo;FH16;2020;Disponible;25.0
 Pasajeros;XY9876;Toyota;Hiace;2019;Prestado;15
-Carga;CD5678;Scania;R500;2021;Disponible;20
+Carga;CD5678;Scania;R500;2021;Disponible;20.0
 Pasajeros;UV3456;Mercedes;Sprinter;2018;Disponible;12
-Carga;EF9012;MAN;TGX;2022;Prestado;24
+Carga;EF9012;MAN;TGX;2022;Prestado;24.0
 Pasajeros;GH7890;Hyundai;H1;2020;Disponible;9
-Carga;IJ3456;Iveco;Stralis;2017;Disponible;22
+Carga;IJ3456;Iveco;Stralis;2017;Disponible;22.0
 Pasajeros;KL5678;Ford;Transit;2021;Prestado;8
-Carga;MN9012;DAF;XF;2019;Disponible;28
+Carga;MN9012;DAF;XF;2019;Disponible;28.0
 Pasajeros;OP3456;Chevrolet;N300;2016;Disponible;7
-Carga;QR5678;Mercedes;Actros;2020;Disponible;30
+Carga;QR5678;Mercedes;Actros;2020;Disponible;30.0
 Pasajeros;ST9012;Renault;Kangoo;2017;Disponible;5
-Pasajeros;WX5678;Peugeot;Expert;2018;Disponible;6
-Carga;YZ9012;Hino;500;2021;Disponible;18
+Pasajeros;WX5678;Peugeot;Expert;2018;En Prestamo;6
+Carga;YZ9012;Hino;500;2021;Disponible;18.0
+Pasajeros;AS1234;dfasdfa;dfasdf;2000;Disponible;4

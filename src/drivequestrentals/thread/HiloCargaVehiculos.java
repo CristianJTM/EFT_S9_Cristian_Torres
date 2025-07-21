@@ -10,8 +10,6 @@ package drivequestrentals.thread;
  */
 import drivequestrentals.model.*;
 import drivequestrentals.archivo.LectorCSV;
-import java.io.BufferedReader;
-import java.util.List;
 
 public class HiloCargaVehiculos extends Thread {
 
@@ -27,7 +25,7 @@ public class HiloCargaVehiculos extends Thread {
     public void run() {
         try {
             System.out.println("[" + Thread.currentThread().getName() + "] Iniciando carga...");
-            Thread.sleep(retrasoMs);  // Simula que este hilo empieza más tarde
+            Thread.sleep(retrasoMs);
             LectorCSV.cargarVehiculos(flotaVehiculos);
             System.out.println("[" + Thread.currentThread().getName() + "] Carga completada.");
         } catch (Exception e) {
